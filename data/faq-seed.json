@@ -1,0 +1,30 @@
+{
+  "note": "Example questions employees ask most. Each lists the policy that answers it.",
+  "questions": [
+    {
+      "id": "FAQ-1",
+      "question": "How many leave credits do I get?",
+      "policy_id": "HB-01"
+    },
+    {
+      "id": "FAQ-2",
+      "question": "Can I work from home on a holiday?",
+      "policy_id": "HB-04"
+    },
+    {
+      "id": "FAQ-3",
+      "question": "When is the 13th month paid?",
+      "policy_id": "HB-05"
+    },
+    {
+      "id": "FAQ-4",
+      "question": "What's the grace period if I log in late?",
+      "policy_id": "HB-03"
+    },
+    {
+      "id": "FAQ-5",
+      "question": "How do I add a dependent to my HMO?",
+      "policy_id": "HB-07"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "company": "Half Scale Inc.",
+  "handbook_version": "2026-10",
+  "note": "Fictional company and policies for the Relay Launch hackathon. Not real Full Scale policies and not legal advice.",
+  "policies": [
+    {
+      "id": "HB-01",
+      "title": "Leave Credits",
+      "last_updated": "2026-01-15",
+      "body": "Regular employees earn 12 days of vacation leave (VL) and 10 days of sick leave (SL) per calendar year. Credits accrue monthly: 1 day of VL and 0.83 day of SL for each full month worked. Probationary employees accrue credits from day one but can only use them after regularization. File VL at least 3 working days ahead in the HR portal; your team lead approves or declines within 2 working days. SL may be filed on the day itself, but you must message your team lead before your shift starts. A sick leave of more than 2 consecutive working days needs a medical certificate, submitted within 3 working days of returning. Up to 5 unused VL days carry over to the next year; the rest lapse on December 31. Unused SL does not carry over and cannot be converted to cash. Leave without credits is unpaid and needs your team lead's approval."
+    },
+    {
+      "id": "HB-02",
+      "title": "Holidays and Holiday Pay",
+      "last_updated": "2026-01-15",
+      "body": "The company follows the national list of regular holidays and special non-working days proclaimed each year. HR posts the list in December for the following year. If you are not scheduled to work on a regular holiday, you still receive your daily pay. If you are scheduled and you work, you receive 200% of your daily rate for the first 8 hours. On a special non-working day, no work means no pay, unless your team has a standing arrangement; working on that day earns 130% of your daily rate. Client-facing teams may be scheduled on holidays to match the client's calendar. Your team lead publishes holiday schedules at least 2 weeks ahead. Swapping a holiday shift with a teammate needs your team lead's approval. Holiday pay is computed on your basic daily rate and appears on the next payroll after the holiday."
+    },
+    {
+      "id": "HB-03",
+      "title": "Working Hours and Attendance",
+      "last_updated": "2026-02-01",
+      "body": "A regular workday is 8 hours plus a 1-hour unpaid meal break, following the shift your team lead assigns. Log in and out using the time tracker; manual corrections need your team lead's approval within the same payroll cutoff. There is a 15-minute grace period at the start of your shift. Logging in after the grace period counts as tardiness, and the late minutes are deducted from your pay. Three tardy instances in one calendar month lead to a written reminder from HR; six lead to a formal notice. Undertime (logging out before your shift ends) also needs your team lead's approval. If you cannot report for work, message your team lead before your shift starts and file leave under HB-01. Being absent for 3 consecutive working days without notice is treated as job abandonment and handled under HB-08."
+    },
+    {
+      "id": "HB-04",
+      "title": "Work From Home",
+      "last_updated": "2026-03-01",
+      "body": "Employees whose role allows it may work from home (WFH) up to 2 days per week. Book WFH days in the WFH tracker by Friday for the following week; your team lead confirms them. While on WFH you must keep the same shift, stay reachable on chat, and have a stable internet connection of at least 10 Mbps. Equipment rules from the office still apply at home. If you are scheduled to work on a holiday, you may work from home on that day by notifying your team lead at least 1 working day before. Holiday pay rules in HB-02 apply the same way whether you work in the office or from home. WFH is a privilege, not a right: repeated connectivity problems or missed messages during your shift can lead your team lead to suspend your WFH days for up to one month."
+    },
+    {
+      "id": "HB-05",
+      "title": "13th-Month Pay",
+      "last_updated": "2026-01-15",
+      "body": "Every rank-and-file employee who has worked at least one month in the calendar year receives 13th-month pay. It equals one-twelfth (1/12) of the total basic salary you earned during the year. Overtime, night differential, holiday premiums and allowances are not included in the computation. The company releases 13th-month pay on or before December 24, usually together with the second December payroll. Employees who resign or are separated during the year receive a prorated amount in their final pay. The 13th-month pay appears as a separate line on your payslip. Payroll answers computation questions through HR; do not raise them in team channels."
+    },
+    {
+      "id": "HB-06",
+      "title": "Overtime and Night Differential",
+      "last_updated": "2026-02-01",
+      "body": "Overtime is work beyond 8 hours in a workday and must be approved by your team lead before you render it. Unapproved overtime is not paid. Approved overtime on a regular workday is paid at 125% of your hourly rate; on a rest day, special non-working day or regular holiday, an additional 30% applies on top of the day's premium rate. Night differential applies to every hour worked between 10:00 PM and 6:00 AM and is paid at an additional 10% of your hourly rate. Night-shift employees receive night differential automatically based on the time tracker. Overtime and night differential appear on the payroll for the cutoff in which the hours were worked. File overtime in the HR portal within the same cutoff; late filings are paid on the next payroll."
+    },
+    {
+      "id": "HB-07",
+      "title": "Benefits",
+      "last_updated": "2026-01-15",
+      "body": "Regular employees are enrolled in the company's HMO plan from the first day of the month after regularization. The plan covers consultations, laboratory tests and hospitalization up to the annual limit shown on your HMO card. You may enroll up to 2 dependents (spouse, children or parents) at the company's group rate; the dependent premium is deducted from your salary in equal monthly amounts. To add a dependent, submit the dependent form and a supporting document (marriage or birth certificate) to HR within the open enrollment window in January, or within 30 days of a qualifying life event such as marriage or birth. The company also remits your mandatory government contributions to SSS, PhilHealth and Pag-IBIG every month; your share appears on your payslip. Your contribution records can be checked on each agency's online portal."
+    },
+    {
+      "id": "HB-08",
+      "title": "Code of Conduct and Reporting Concerns",
+      "last_updated": "2026-02-01",
+      "body": "All employees are expected to treat colleagues, clients and partners with respect, protect confidential information, and use company tools only for work. Harassment of any kind, including sexual harassment, bullying and discrimination, is not tolerated. If you experience or witness harassment, report it directly to the HR Lead or through the confidential concern form. Reports are handled confidentially, and retaliation against anyone who reports in good faith is a violation of this code. Violations are handled through a fair process: a notice explaining the concern, a chance to respond in writing, and a decision from HR. Depending on the seriousness of the violation, outcomes range from a written reminder to termination. Questions about a specific case should go to the HR Lead, not to team channels."
+    }
+  ]
+}
