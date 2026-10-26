@@ -1,2 +1,2 @@
-{ "rewrites": [ { "source": "/api/(.*)", "destination": "/api/index.js" }, { "source": "/hr", "destination": "/index.html" } ],
-  "functions": { "api/index.js": { "includeFiles": "{data,prompts}/**" } } }
+{ "rewrites": [ { "source": "/hr", "destination": "/index.html" } ],
+  "functions": { "api/[...path].js": { "includeFiles": "{data,prompts}/**" } } }
